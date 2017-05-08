@@ -1,0 +1,15 @@
+# cpp make app
+
+This is a demo for build a simple app by make file.
+
+## How to build project
+
+```shell
+$> make
+```
+
+## How to run project
+
+```shell
+$> ./bin/app
+```
